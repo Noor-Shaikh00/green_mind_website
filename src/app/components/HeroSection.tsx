@@ -35,6 +35,7 @@
      src="/unsplash_cLaaxa4DSnc-removebg-preview 1.png"
      alt="Plant"
      className="w-64 h-64 mx-auto object-contain"
+     
    />
  </div>
 
